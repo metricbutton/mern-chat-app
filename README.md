@@ -1,7 +1,8 @@
 # Chat App
+![Screenshot 2024-04-09 105621](https://github.com/metricbutton/mern-chat-app/assets/67633930/a7c78ab9-500b-4214-a1cf-c8fbbe7756db)
 
 ## Description
-A real-time messaging application.
+A real-time chat application.
 
 ## Features
 
